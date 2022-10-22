@@ -1,0 +1,15 @@
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\bin\Debug\net6.0\csharp_tasks.exe
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\bin\Debug\net6.0\csharp_tasks.deps.json
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\bin\Debug\net6.0\csharp_tasks.runtimeconfig.json
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\bin\Debug\net6.0\csharp_tasks.dll
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\bin\Debug\net6.0\csharp_tasks.pdb
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.csproj.AssemblyReference.cache
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.AssemblyInfoInputs.cache
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.AssemblyInfo.cs
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.csproj.CoreCompileInputs.cache
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.dll
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\refint\csharp_tasks.dll
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.pdb
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\csharp_tasks.genruntimeconfig.cache
+C:\Users\EI13150\source\repos\csharp_tasks\csharp_tasks\obj\Debug\net6.0\ref\csharp_tasks.dll
